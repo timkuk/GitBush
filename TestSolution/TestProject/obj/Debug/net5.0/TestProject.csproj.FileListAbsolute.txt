@@ -1,0 +1,16 @@
+E:\TestSolution\TestProject\bin\Debug\net5.0\TestProject.exe
+E:\TestSolution\TestProject\bin\Debug\net5.0\TestProject.deps.json
+E:\TestSolution\TestProject\bin\Debug\net5.0\TestProject.runtimeconfig.json
+E:\TestSolution\TestProject\bin\Debug\net5.0\TestProject.runtimeconfig.dev.json
+E:\TestSolution\TestProject\bin\Debug\net5.0\TestProject.dll
+E:\TestSolution\TestProject\bin\Debug\net5.0\ref\TestProject.dll
+E:\TestSolution\TestProject\bin\Debug\net5.0\TestProject.pdb
+E:\TestSolution\TestProject\obj\Debug\net5.0\TestProject.csprojAssemblyReference.cache
+E:\TestSolution\TestProject\obj\Debug\net5.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestSolution\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfoInputs.cache
+E:\TestSolution\TestProject\obj\Debug\net5.0\TestProject.AssemblyInfo.cs
+E:\TestSolution\TestProject\obj\Debug\net5.0\TestProject.csproj.CoreCompileInputs.cache
+E:\TestSolution\TestProject\obj\Debug\net5.0\TestProject.dll
+E:\TestSolution\TestProject\obj\Debug\net5.0\ref\TestProject.dll
+E:\TestSolution\TestProject\obj\Debug\net5.0\TestProject.pdb
+E:\TestSolution\TestProject\obj\Debug\net5.0\TestProject.genruntimeconfig.cache
